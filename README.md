@@ -1,6 +1,6 @@
 # [Template Jinja2 Theme](https://theme-jinja2.appseed.us/)
 
-> Template Jinja2 Theme provided by [AppSeed](https://appseed.us) - Features:
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
 - UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
