@@ -1,4 +1,4 @@
-# [Jinja Template](https://theme-jinja2.appseed.us/)
+# [Jinja Template](https://github.com/app-generator/jinja-template)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -10,7 +10,8 @@
 
 > Links
 
-- [Jinja Template](https://theme-jinja2.appseed.us/) - LIVE Demo
+- [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
+- [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
 
 <br />
 
