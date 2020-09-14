@@ -3,6 +3,9 @@
 ## Unreleased
 ### Improvements
 
+- 2020-09-14 - Added HEROKU support. Updated files
+    - runtime.txt  
+
 - 2020-08-20 - Added `get_segment()` helper that detects the current page
     - Updated files(s): app/views.py
 
