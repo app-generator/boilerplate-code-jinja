@@ -1,4 +1,4 @@
-# [Jinja Template](https://github.com/app-generator/jinja-template)
+# [Jinja Template](https://appseed.us/jinja-template)
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
@@ -12,7 +12,7 @@
 > Links
 
 - [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
-- [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
+- More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
 
@@ -212,4 +212,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://appseed.us/jinja-template) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
