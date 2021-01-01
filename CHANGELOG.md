@@ -1,7 +1,10 @@
 # Change Log
 
-## Unreleased
-### Improvements
+## [1.0.1] 2021-01-01
+### Initial Release
+
+- 2021-01-01 - Minor Changes
+    - Update Commercial LICENSE terms 
 
 - 2020-09-14 - Added HEROKU support. Updated files
     - runtime.txt  
