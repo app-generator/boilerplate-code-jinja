@@ -1,23 +1,18 @@
 # [Jinja Template](https://github.com/app-generator/jinja-template)
 
-> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
 - UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
 - [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
 - [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
-
-<br />
-
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
-
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
 
 <br />
 
@@ -217,4 +212,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
