@@ -1,8 +1,12 @@
 # [Jinja Template](https://appseed.us/jinja-template)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/). 
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+<br />
+
+> Features:
+
+- UI Kit: **Pixel Lite** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
@@ -11,12 +15,12 @@
 
 > Links
 
-- [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
+- [LIVE Demo](https://boilerplate-code-jinja.appseed-srv1.com/) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-jinja/master/media/theme-jinja2-screen.png)
 
 <br />
 
@@ -24,8 +28,8 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
+$ cd boilerplate-code-jinja
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -114,8 +118,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
+$ cd boilerplate-code-jinja
 ```
 
 > Start the app in Docker
@@ -140,8 +144,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/boilerplate-code-jinja.git
+$ cd boilerplate-code-jinja
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
