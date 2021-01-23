@@ -1,15 +1,15 @@
 {
-    "name": "theme-jinja2",
-    "mastertemplate": "theme-jinja2",
-    "version": "1.0.1",
+    "name": "boilerplate-code-jinja",
+    "mastertemplate": "boilerplate-code-jinja",
+    "version": "1.0.2",
     "description": "Template project - Flask/Jinja2 Theme",
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/theme-jinja2"
+        "url": "https://github.com/app-generator/boilerplate-code-jinja"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/theme-jinja2/issues",
+        "url": "https://github.com/app-generator/boilerplate-code-jinja/issues",
         "email": "support@appseed.us"
     },
     "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",

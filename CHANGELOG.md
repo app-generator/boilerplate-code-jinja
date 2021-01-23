@@ -1,7 +1,12 @@
 # Change Log
 
+## [1.0.2] 2021-01-23
+### Improvements
+
+- Change UI Kit: [Pixel Lite](https://github.com/themesberg/pixel-bootstrap-ui-kit/releases) v3.1.2  
+
 ## [1.0.1] 2021-01-01
-### Initial Release
+### Improvements
 
 - 2021-01-01 - Minor Changes
     - Update Commercial LICENSE terms 
