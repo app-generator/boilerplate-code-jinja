@@ -1,7 +1,7 @@
 {
     "name": "boilerplate-code-jinja",
     "mastertemplate": "boilerplate-code-jinja",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Template project - Flask/Jinja2 Theme",
     "scripts": {},
     "repository": {

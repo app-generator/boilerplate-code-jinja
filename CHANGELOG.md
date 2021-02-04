@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2021-02-04
+### Improvements
+
+- Added `get_segment()` helper that detects the current page
+    - Updated files(s): app/views.py
+
 ## [1.0.2] 2021-01-23
 ### Improvements
 
