@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.4] 2021-05-16
+### Dependencies Update
+
+- Freeze used versions in `requirements.txt`
+    - flask  = 1.1.2 
+    - jinja2 = 2.11.3
+
 ## [1.0.3] 2021-02-04
 ### Improvements
 
