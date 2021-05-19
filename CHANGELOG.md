@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.5] 2021-05-19
+### Deployment Update
+
+- Update Python runtime for HEROKU
+    - `python-3.8.10`
+
 ## [1.0.4] 2021-05-16
 ### Dependencies Update
 
