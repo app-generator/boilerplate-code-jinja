@@ -20,11 +20,11 @@ def index(path):
         # Detect the current page
         segment = get_segment( request )
 
-        # Serve the file (if exists) from app/templates/FILE.html
-        return render_template( path, segment=segment )
+        # Serve the file (if exists) from app/templates/home/FILE.html
+        return render_template( 'home/' + path, segment=segment )
     
     except TemplateNotFound:
-        return render_template('page-404.html'), 404
+        return render_template('home/page-404.html'), 404
 
 def get_segment( request ): 
 
