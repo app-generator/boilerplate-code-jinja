@@ -1,5 +1,13 @@
 # Change Log
 
+## [2.0.1] 2022-06-08
+### Improvements
+
+- Use generated version
+  - UI kit: Material BS5 (free version)
+  - Timestamp: `2022-06-08 05:44`
+  - Build ID: `e7a6ed51-3614-4529-9538-0ca4a4145703`
+
 ## [2.0.0] 2021-09-27
 ### Improvements
 
