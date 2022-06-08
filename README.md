@@ -1,6 +1,6 @@
 # Flask/jinja Boilerplate 
 
-> Experimental codebase `!!! Don't use it in production !!!` 
+Reference codebase used by AppSeed in all [Flask/Jinja Apps](https://appseed.us/apps/jinja/) starters.
 
 <br />
 
@@ -16,6 +16,11 @@
 
 - `Up-to-date dependencies`
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- 👉 [Complete documentation](https://docs.appseed.us/boilerplate-code/boilerplate-jinja) - `Learn how to use and update the product`
+  - ✅ [Set up the environment](https://docs.appseed.us/boilerplate-code/boilerplate-jinja#environment)
+  - ✅ [Start in Docker](https://docs.appseed.us/boilerplate-code/boilerplate-jinja#start-the-app-in-docker)
+  - ✅ [Codebase structure](https://docs.appseed.us/boilerplate-code/boilerplate-jinja#codebase-structure)
+  - ✅ [UI Assets and Templates](https://docs.appseed.us/boilerplate-code/boilerplate-jinja#ui-assets-and-templates)
 
 <br />
 
