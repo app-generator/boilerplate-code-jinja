@@ -4,11 +4,11 @@ Reference codebase used by AppSeed in all [Flask/Jinja Apps](https://appseed.us/
 
 <br />
 
-> Built with [AppSeed Generator](https://appseed.us/generator/material-kit/)
- 
-- Timestamp: `2022-06-08 05:44`
-- Build ID: `e7a6ed51-3614-4529-9538-0ca4a4145703`
-- **Free [Support](https://appseed.us/support/)** (registered users) via `Email` and `Discord`
+## [Black Friday](https://appseed.us/discounts/) - `75%OFF`
+
+> The campaign is active until `30.NOV` and applies to all products and licenses.
+
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us/discounts/)
 
 <br />
 
